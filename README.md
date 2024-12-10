@@ -23,12 +23,17 @@ Cadastro e Relacionamento:
 Registro de clientes, veículos e fornecedores.
 
 Consulta rápida de informações e histórico de compras e serviços.
+
 Geração de Relatórios:
 
 Relatórios financeiros (faturamento e despesas).
+
 Relatórios de estoque e movimentação de peças.
+
 Histórico completo de serviços prestados.
+
 Integração e Automação:
 
 Gerenciamento automatizado de tarefas repetitivas.
+
 Possibilidade de integração com sistemas fiscais e emissão de notas.
