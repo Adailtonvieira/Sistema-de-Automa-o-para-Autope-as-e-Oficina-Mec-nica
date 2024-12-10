@@ -1,0 +1,2 @@
+# Sistema-de-Automa-o-para-Autope-as-e-Oficina-Mec-nica
+Este repositório contém o desenvolvimento de um sistema de automação para gestão de autopeças e oficinas mecânicas, com foco em otimizar processos, reduzir erros e melhorar o atendimento ao cliente. O projeto integra funcionalidades essenciais para o gerenciamento de estoque, controle de serviços mecânicos, cadastro de clientes e fornecedores..
