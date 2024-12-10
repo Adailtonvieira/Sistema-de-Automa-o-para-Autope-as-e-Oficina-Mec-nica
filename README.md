@@ -5,16 +5,23 @@ Funcionalidades
 Gestão de Estoque:
 
 Cadastro, atualização e exclusão de peças disponíveis.
+
 Controle de entrada e saída de produtos.
+
 Notificações de estoque baixo.
+
 Controle de Serviços Mecânicos:
 
 Agendamento de serviços.
+
 Histórico de manutenções realizadas.
+
 Relatório detalhado de custos e mão de obra.
+
 Cadastro e Relacionamento:
 
 Registro de clientes, veículos e fornecedores.
+
 Consulta rápida de informações e histórico de compras e serviços.
 Geração de Relatórios:
 
